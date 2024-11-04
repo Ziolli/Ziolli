@@ -1,5 +1,5 @@
 
-[<img src="https://www.gisma.com/uploads/sites/5/2023/09/BSc-DS-AI-GettyImages-1448152453.jpg?w=1920&h=1080&crop=1" alt="👋 Hi there! I'm Carlos Melo | https://sigmoidal.ai/en)" title="👋 Hi there! I'm Carlos Melo | https://sigmoidal.ai/en)"/>](https://sigmoidal.ai/en/)
+<img src="https://www.gisma.com/uploads/sites/5/2023/09/BSc-DS-AI-GettyImages-1448152453.jpg?w=1920&h=1080&crop=1" />
 
 <div align="center">
 
