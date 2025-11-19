@@ -9,7 +9,7 @@
 <div align="center">
 
 # 💫 About Me:
-<br>🤝 I’m looking for a job in DS/ML<br>🌱 I'm currently learning more about Deep Learning<br>⚡ I enjoy building AI agents to play games.
+<br>🤝 I’m working as a Analytics Engineer in Bullla<br>🌱 I'm currently learning more about Deep Learning<br>⚡ I enjoy building AI agents to play games.
 
 
 ## 🌐 Socials:
