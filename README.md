@@ -2,7 +2,7 @@
   
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=836FFF&width=500&height=45&lines=Analytical+Engineer+in+love+with+data;Exploring+Deep+Learning+and+AI+daily;Azure+GCP+Certificated;A+Lifelong+Learner" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=836FFF&width=500&height=45&lines=Analytical+Engineer+in+love+with+data;Exploring+Deep+Learning+and+AI+daily;Azure+&+GCP+Certificated;A+Lifelong+Learner" alt="Typing SVG" /></a>
 </p>
 <img src="https://www.gisma.com/uploads/sites/5/2023/09/BSc-DS-AI-GettyImages-1448152453.jpg?w=1920&h=1080&crop=1" />
 
